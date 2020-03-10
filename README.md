@@ -8,7 +8,7 @@ Prezado aluno, estes são os arquivos do curso de webpack da Platzi (http://plat
 10	Resolvendo o FOUC (Flash of Unstyled Content) extract-css <br>
 11	Usando e criando plugins <br>
 12	File-Loader <br>
-21 Exemplo prático de Lazy loading  (leitura) <br>
+22 Exemplo prático de Lazy loading  (leitura) <br>
  <br>
 Tudo o que for ensinado nas aulas, ou seja, o código que for apresentado, deve ser aplicado no projeto base (2): <br>
 
