@@ -20,6 +20,6 @@
     "webpack": "^1.12.1"
   },
   "dependencies": {
-    "react": "^0.13.3"
+    "react": "^16.13.1"
   }
 }
